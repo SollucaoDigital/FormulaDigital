@@ -1395,12 +1395,12 @@ body {
 }
 .cid-rormUv7s9l .navbar {
   padding: .5rem 0;
-  background: #333333;
+  background: #ffffff;
   transition: none;
   min-height: 77px;
 }
 .cid-rormUv7s9l .navbar-dropdown.bg-color.transparent.opened {
-  background: #333333;
+  background: #ffffff;
 }
 .cid-rormUv7s9l a {
   font-style: normal;
@@ -1491,7 +1491,7 @@ body {
   padding-bottom: 0;
 }
 .cid-rormUv7s9l .dropdown .dropdown-menu {
-  background: #333333;
+  background: #ffffff;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1638,7 +1638,7 @@ body {
 }
 @media (min-width: 992px) {
   .cid-rormUv7s9l .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
+    max-height: calc(98.5vh - 4.5rem);
   }
 }
 .cid-rormUv7s9l .collapsed button.navbar-toggler {
@@ -1792,10 +1792,21 @@ body {
 .cid-rormUv7s9l .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-rp38WOkXIp {
+  padding-top: 90px;
+  padding-bottom: 0px;
+}
+.cid-rp38WOkXIp P {
+  color: #767676;
+}
+.cid-rp38WOkXIp H1 {
+  color: #f29913;
+}
 .cid-rorozdmCyL {
-  background: #ffffff;
+  background: #652376;
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 45px;
+  background: linear-gradient(45deg, #652376, #c6bcc4);
 }
 .cid-rorozdmCyL .video-block {
   margin: auto;
@@ -1806,7 +1817,24 @@ body {
   }
 }
 .cid-rormVhKv4T {
-  background-image: url("../../../assets/images/congrats-to-the-new-mom-160x600.png");
+  background-image: url("../../../assets/images/mbr-1920x1132.jpg");
+}
+.cid-rormVhKv4T H1 {
+  text-align: left;
+  color: #887f7f;
+}
+.cid-rormVhKv4T H3 {
+  text-align: left;
+  color: #887f7f;
+}
+.cid-rormVhKv4T .mbr-text,
+.cid-rormVhKv4T .mbr-section-btn {
+  text-align: left;
+  color: #887f7f;
+}
+.cid-rormVhKv4T .mbr-text,
+.cid-rormVhKv4T .mbr-section-btn B {
+  color: #149dcc;
 }
 .cid-rormWIWnpS {
   padding-top: 90px;
