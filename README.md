@@ -1,0 +1,2 @@
+# FormulaDigital
+Este conteúdo te Guiará passo a passo, como você pode faturar de 1000 a 5000 mil R$reais por semana ou até mais que isso, usando sua conexão com a internet. De onde você estiver, não importa o local. Ensinaremos conteúdos diretos e sem enrolação, coisas que fazem você ficar dando voltas e mais voltas até chegar ao resultado final (isso não Tem no nosso curso). Vamos direto ao ponto com nossos alunos para que eles tenham resultados reais assim como nós. 
