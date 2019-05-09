@@ -1838,6 +1838,18 @@ body {
     width: 100% !important;
   }
 }
+.cid-rpWCSWtkbT {
+  background: #ffffff;
+}
+.cid-rpWCSWtkbT .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-rpWCSWtkbT .video-block {
+    width: 100% !important;
+  }
+}
 .cid-rormVhKv4T {
   background-image: url("../../../assets/images/mbr-1920x1132.jpg");
 }
