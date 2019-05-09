@@ -1815,6 +1815,29 @@ body {
 .cid-rormUv7s9l .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-rpWpyE9Wlp {
+  background: #ffffff;
+}
+.cid-rpWpyE9Wlp .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-rpWpyE9Wlp .mbr-figure {
+  margin: 0 auto;
+}
+.cid-rpWpyE9Wlp figcaption {
+  position: relative;
+}
+.cid-rpWpyE9Wlp figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rpWpyE9Wlp .image-block {
+    width: 100% !important;
+  }
+}
 .cid-rormVhKv4T {
   background-image: url("../../../assets/images/mbr-1920x1132.jpg");
 }
